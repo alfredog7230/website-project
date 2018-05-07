@@ -21,34 +21,34 @@
   }
   @keyframes change {
   0% {
-    color: #E89999	;
+    color: #f16A70	;
 /*pink*/
     
   }
   17% {
-    color: #7D97BC;
+    color: #B1D877;
     /*blue*/
     
   }
   34% {
-    color: #FFF9B5;
+    color: #8CDCDA;
     /*yellow*/
     
   }
   51% {
-    color: #8FF6A6;
+    color: #4D4D4D
     /*green*/
   }
   68% {
-    color: #0047ab;
+    color: #FCD2A8;
   }
   85% {
-    color: #B3998E;
+    color: #B39989;
     /*muave*/
     
   }
   100% {
-    color: #4B9CD3;
+    color: #007D75;
     
   }
 }
@@ -60,6 +60,9 @@ h1 {
     border: 5px solid white
   }
   
-h4 { 
-  font-size: 35px;
-  border: 10px solid white;
+
+
+.text-center{
+    text-shadow: 1px 1px #036cc7;
+    color: #0b9401
+}
