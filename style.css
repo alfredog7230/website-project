@@ -10,50 +10,59 @@
         text-align: center;
         vertical-align: middle;
         display: table-cell;
-        color: orange;
+        color: brown;
     } 
   #effect {
   animation-name: change;
-  animation-duration: 4s;
+  animation-duration: 5s;
   animation-iteration-count: infinite;
   font-style: italic;
   font-family: 'Work Sans', sans-serif;
   }
   @keyframes change {
   0% {
-    color: #00FF00	;
+    color: #f16A70	;
+/*pink*/
     
   }
   17% {
-    color: #FF8C00;
+    color: #B1D877;
+    /*blue*/
     
   }
   34% {
-    color: #FFA500;
+    color: #8CDCDA;
+    /*yellow*/
     
   }
   51% {
-    color: #00FF00;
+    color: #4D4D4D
+    /*green*/
   }
   68% {
-    color: #0047ab;
+    color: #FCD2A8;
   }
   85% {
-    color: #26619C;
+    color: #B39989;
+    /*muave*/
     
   }
   100% {
-    color: #4B9CD3;
+    color: #007D75;
     
   }
 }
+  
 
-  h1 {
+h1 {
     font-size: 50px;
     font-family: 'Work Sans', sans-serif;
     border: 5px solid white
   }
+  
+
+
 .text-center{
     text-shadow: 1px 1px #036cc7;
     color: #0b9401
-    }   
+
