@@ -67,8 +67,10 @@ h3 {
 
 
 .text-center{
-    text-shadow: 1px 1px #036cc7;
-    color: #0b9401
+    text-shadow: 2px 2px #036cc7;
+    color: #0b9401;
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 25px;
 }
 .container{
   font-family: 'Poiret One', cursive;
