@@ -26,7 +26,7 @@
     
   }
   17% {
-    color: #B1D877;
+    color: #0D78E8
     /*blue*/
     
   }
@@ -62,17 +62,24 @@ h1 {
   
 h3 {
   border: 5px solid orange;
+  
 }
   
 
 
 .text-center{
     text-shadow: 2px 2px #036cc7;
-    color: #0b9401;
+    color: ;
     font-family: 'Berkshire Swash', cursive;
-    font-size: 25px;
+    font-size: 35px;
 }
 .container{
   font-family: 'Poiret One', cursive;
-  font-size: 20px
+  font-size: 20px;
+  color: white;
   }
+  
+body{
+  background-color: black
+}
+
